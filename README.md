@@ -1,2 +1,2 @@
 # DjangoBlog
-Django blog for training purposes.
+Django blog for ASTA Software training purposes.
